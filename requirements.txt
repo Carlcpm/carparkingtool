@@ -1,0 +1,5 @@
+requests
+mysql-connector-python
+pyfiglet
+rich
+urllib3
